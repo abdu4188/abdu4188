@@ -51,4 +51,4 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/github/followers/abdu4188?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/abdu4188)  <img src="https://img.shields.io/github/followers/abdu4188?label=Follow" style=" float:left, margin-right:10px" />
