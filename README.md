@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=abdu4188color=ADFF2F)
+![](https://komarev.com/ghpvc/?username=abdu4188&color=ADFF2F)
 <!--
 **abdu4188/abdu4188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
