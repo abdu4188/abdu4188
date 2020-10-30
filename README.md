@@ -54,6 +54,6 @@
 ---
 <h2 align="center">My github stats</h2>
 
-[![Abdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=abdu4188&theme=tokyonight)](https://github.com/abdu4188/github-readme-stats)
+[![Abdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=abdu4188&theme=tokyonight&count_private=true)](https://github.com/abdu4188/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/abdu4188)  <img src="https://img.shields.io/github/followers/abdu4188?label=Follow" style=" float:left, margin-right:10px" />
