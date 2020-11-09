@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Abdulaziz Yesuf's Twitter" height="30" width="30">
   </a>
   
-  <a href="https://medium.com/@abdulazizyesuf7">
+  <a href="https://abdulazizyesuf.medium.com/">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Abdulaziz Yesuf's Medium Profile" height="30" width="30">
   </a>
 </p>
