@@ -56,4 +56,6 @@
 
 [![Abdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=abdu4188&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
 
+[![Abdulaziz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@8bbaec45-4a54-49a5-a38d-7001236a581a)](https://github.com/abdu4188/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/abdu4188)  <img src="https://img.shields.io/github/followers/abdu4188?label=Follow" style=" float:left, margin-right:10px" />
