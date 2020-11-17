@@ -55,7 +55,7 @@
 ---
 <h2 align="center">My github stats</h2>
 
-[![Abdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=abdu4188&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
+[![Abdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=abdu4188&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
 
 [![Abdulaziz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@8bbaec45-4a54-49a5-a38d-7001236a581a)](https://github.com/abdu4188/github-readme-stats)
 
