@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2 align="center">About me</h2>
-<p align="center">I am a Fullstack web developer from Addis Ababa, Ethiopia. I am currently getting interested in Cloud and DevOps technologies.</p>
+<p align="center">I am a Fullstack web developer from Addis Ababa, Ethiopia. I am currently getting focused in Cloud and DevOps technologies.</p>
 
 
 ---
